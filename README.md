@@ -10,12 +10,16 @@ The SIIT-CN-A is free-direction (freestyle walks), single-camera data that are c
 A Kinect V1 device is placed in a room with a height of 240 cm above the floor. The Kinect was tilted down with an angle of 27 degrees. 
 Each user was asked to walk freely for 10 rounds in their usual way. The duration is from 30 to 60 seconds for each walk.
 
+<img src="/SIIT-CN-A/preview/1.1.png" width="400"> <img src="/SIIT-CN-A/preview/1.2.png" width="400">
 
 
 ### Dataset SIIT-CN-B
 The SIIT-CN-A is free-direction (freestyle walks), single-camera data that are collected from 393 users.
 A Kinect V1 device is placed in a room with a height of 235 cm above the floor. The Kinect was tilted down with an angle of 27 degrees. With a distance from the front of the camera of 125 cm, we provided a rectangle of 355 cm by 250 cm.
 Each user was asked to walk freely for 12 rounds in their usual way. The duration is from 30 to 60 seconds for each walk.
+
+<img src="/SIIT-CN-B/preview/1.1.png" width="400"> <img src="/SIIT-CN-B/preview/1.2.png" width="400">
+<img src="/SIIT-CN-B/preview/2.1.png" width="400"> <img src="/SIIT-CN-B/preview/2.2.png" width="400">
 
 
 ### Dataset SIIT-CN-C
@@ -26,7 +30,10 @@ Each user was asked to walk freely for 12 rounds.
 Round 1 to 6 for setting 1 and 3 and round 7 to 12 for setting 2 and 4.
 The duration is from 30 to 60 seconds for each walk.
 
-***We note that the subjects in SIIT-CN-A, SIIT-CN-B, and SIIT-CN-C are unique.***
+<img src="/SIIT-CN-C/preview/1.png" width="300"> <img src="/SIIT-CN-C/preview/2.png" width="300"> <img src="/SIIT-CN-C/preview/3.png" width="300"> <img src="/SIIT-CN-C/preview/4.png" width="300">
+
+
+***\*We note that the subjects in SIIT-CN-A, SIIT-CN-B, and SIIT-CN-C are unique.***
 
 ### Dataset SIIT-CN-D
 We used the combined gait data from three different datasets, SIIT-CN-A (91 users), SIIT-CN-B (393 users), and SIIT-CNC (130 users). In all three datasets, participants were asked to walk freely, in any direction, where multiple Kinects were placed at different heights and angles. Each captured video is at least 15 seconds long. 
