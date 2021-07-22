@@ -49,7 +49,7 @@ The duration is from 30 to 60 seconds for each walk.
 ***\*We note that the subjects in SIIT-CN-A, SIIT-CN-B, and SIIT-CN-C are unique.***
 
 ### Dataset SIIT-CN-D
-We used the combined gait data from three different datasets, SIIT-CN-A (91 users), SIIT-CN-B (393 users), and SIIT-CNC (130 users). In all three datasets, participants were asked to walk freely, in any direction, where multiple Kinects were placed at different heights and angles. Each captured video is at least 15 seconds long. 
+We used the combined gait data from three different datasets, SIIT-CN-A (91 users), SIIT-CN-B (393 users), and SIIT-CNC (130 users). In all three datasets, participants were asked to walk freely, in any direction, where multiple Kinects were placed at different heights and angles. Each captured video is at least 30 seconds long. 
 
 We create a new gait dataset, called SIIT-CN-D, from these three datasets by splitting the original capture videos into many 2-second (40 frames) videos. The SIIT-CN-D dataset consists of 180,097 2-second walks from 610 random unique subjects with different heights, weights, and genders. These 2-second walks are captured by different camera angles and heights from the ground.
 
