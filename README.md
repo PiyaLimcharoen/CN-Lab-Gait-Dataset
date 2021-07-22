@@ -6,7 +6,7 @@ The Sirindhorn International Institute of Technology (SIIT), Thammasat  Universi
 # CN-Lab-Gait-Dataset
 
 ### Dataset SIIT-CN-A
-The SIIT-CN-A is free-direction (freestyle walks), single-camera data that are collected from 90 users. 
+The SIIT-CN-A is free-direction (freestyle walks), single-camera data that are collected from 91 users. 
 A Kinect V1 device is placed in a room with a height of 240 cm above the floor. The Kinect was tilted down with an angle of 27 degrees. 
 Each user was asked to walk freely for 10 rounds in their usual way. The duration is from 30 to 60 seconds for each walk.
 
