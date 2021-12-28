@@ -56,9 +56,11 @@ We create a new gait dataset, called SIIT-CN-D, from these three datasets by spl
 
 ### Citations
 If you use CN-Lab-Gait-Dataset, please refer and consider to cite these papers:
-1. -
-1. -
-1. -
+1. P. Limcharoen, N. Khamsemanan and C. Nattee, "Gait Recognition and Re-Identification Based on Regional LSTM for 2-Second Walks," in IEEE Access, vol. 9, pp. 112057-112068, 2021, doi: 10.1109/ACCESS.2021.3102936.
+1. P. Limcharoen, N. Khamsemanan and C. Nattee, “View-Independent Gait Recognition Using Joint Replacement Coordinates (JRCs) and Convolutional Neural Network,” in IEEE Transactions on Information Forensics and Security, vol. 15, pp. 3430-3442, 2020, doi: 10.1109/TIFS.2020.2985535.
+1. N. Khamsemanan, C. Nattee and N. Jianwattanapaisarn, "Human Identification From Freestyle Walks Using Posture-Based Gait Feature," in IEEE Transactions on Information Forensics and Security, vol. 13, no. 1, pp. 119-128, Jan. 2018, doi: 10.1109/TIFS.2017.2738611.
+
+
 
 
 # The database administrator
